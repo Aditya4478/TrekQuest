@@ -32,6 +32,7 @@ TrekQuest offers a platform for travel enthusiasts to discover, plan, and share 
 ```bash
    npm install
    npm start
+```
 
 🌟 Contribution
 Fork the repository: Click on the fork button on the top right.
@@ -39,4 +40,10 @@ Clone your fork: Get the URL of your fork and clone it.
 Branch out: Create a new branch for the features you're adding.
 Make your changes and commit.
 Push to your fork and then create a pull request.
-```
+
+## 📢 Announcements
+
+📆 **Launch Date**: The website will be going live on August 19th! Stay tuned for the launch.
+
+🤝 **Contributions Welcome**: I am working on this project solo, and would deeply appreciate any contributions. Whether it's features, bug fixes, or documentation, your assistance will be highly valued. Feel free to fork the repository and submit pull requests.
+
