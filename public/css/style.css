@@ -1322,3 +1322,22 @@ body {
   -webkit-transform: translateY(-2px);
   transform: translateY(-2px);
 }
+
+@media only screen and (max-width: 600px) {
+  .header{
+    height: auto;
+  }
+  .card-container{
+    display: block;
+  }
+  .card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .footer{
+    padding-top: 6rem;
+  }
+  .footer__copyright,.footer__logo,.footer__nav{
+    margin-left: -4rem;
+  }
+}
